@@ -1,0 +1,85 @@
+body {
+  background-color: hsl(47, 88%, 63%) ;
+}
+
+section .box-father {
+  position:relative ;
+}
+
+.box1 {
+  box-shadow: 6px 5px 2px black;
+  border-radius: 20px;
+  height: 400px;
+  width: 300px;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid black;
+  background-color: azure;
+}
+
+.html {
+  font-family: sans-serif;
+  font-weight: ;
+}
+
+.down-text {
+  font-weight: lighter;
+  font-family: sans-serif;
+  color:  hsl(0, 0%, 50%);
+  font-size: 12px;
+}
+
+.box-father {
+  width: 319px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+   
+}
+
+.first-img  >img {
+ display:inline-block;
+ width: 19em;
+ border-radius: 20px;
+}
+
+.second-img {
+  position: absolute;
+  font-size: 20px;
+  /* bottom: 0; */
+  top:23em;
+}
+
+.sec-img {
+  height: 30px;
+  width: 30px;
+}
+.Hooper {
+  position: relative;
+  bottom:10px;
+  font-size: 11px;
+  font-family: sans-serif;
+  font-weight: bold;
+   color:  hsl(0, 0%, 7%) ;
+}
+
+.learn {
+  height: 19px;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bolder;
+  padding: 5px;
+  margin-top: 10px;
+  width: 76px;
+  border: 1xp solid black ;
+  background-color: hsl(47, 88%, 63%) ;
+  font-family: 'Figtree', sans-serif;
+}
+
+.Dec-2024 {
+  font-family: sans-serif;
+  font-weight: lighter;
+  /* color: hsl(0, 0%, 7%); */
+
+}
